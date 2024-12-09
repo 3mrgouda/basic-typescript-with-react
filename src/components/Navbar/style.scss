@@ -1,0 +1,11 @@
+.log {
+    padding: 5px;
+    border-radius: 0.5rem;
+    background-color: white;
+    color: black;
+    
+    &:hover {
+        color: white;
+        background-color: black;
+  }
+}

@@ -1,0 +1,11 @@
+form {
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+  gap: 10px;
+  input {
+    border-radius: 0.5rem;
+    padding: 8px;
+    background-color: rgb(58, 53, 53);
+  }
+}
